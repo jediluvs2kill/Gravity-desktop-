@@ -1,0 +1,5 @@
+{
+  "name": "Gravity Desktop",
+  "description": "A simulated desktop environment where application icons react to gravity and device orientation, behaving like marbles in a box. Built with React, TypeScript, and Matter.js for the physics simulation.",
+  "requestFramePermissions": []
+}
